@@ -1,0 +1,21 @@
+.Login {
+    padding-top: 7vh;
+    text-align: center;
+    height: 100vh;
+}
+
+.LoginLogo {
+    width: 70vw;
+    height: 70vw;
+}
+
+.TextLogo {
+    width:90vw;
+    height:20vw;
+}
+
+.ShortDescriptionText {
+    margin: auto;
+    width:80vw;
+    margin-bottom: 3vh;
+}
