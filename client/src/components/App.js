@@ -10,6 +10,8 @@ import DiagnosticContainer from './DiagnosticContainer';
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import { connect } from 'react-redux';
 import setLoginLoading from '../redux/actions/actions'
+import WeeklyTracker from './WeeklyTracker';
+import { Container, Row, Col } from 'react-bootstrap';
 
 
 

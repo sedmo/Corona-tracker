@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import WeeklyTrackerDay from './WeeklyTrackerDay';
+import DailyTracker from './DailyTracker';
 class WeeklyTracker extends Component {
     constructor(props) {
         super(props);
@@ -25,7 +25,7 @@ class WeeklyTracker extends Component {
     }
     render() {
         return (
-            <WeeklyTrackerDay/>
+            <DailyTracker/>
         );
     }
 }
